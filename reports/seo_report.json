@@ -1,0 +1,21 @@
+{
+    "keyword": "best eco-friendly yoga mats",
+    "competition_score": 0,
+    "probability": "Low",
+    "score": 31.0,
+    "suggestions": [
+        "Include target keyword in H1",
+        "Add meta description"
+    ],
+    "technical": {
+        "html_size": {
+            "size_kb": 0.01,
+            "status": "Good"
+        },
+        "render_blocking": {
+            "count": 0,
+            "files": []
+        }
+    },
+    "disclaimer": "DISCLAIMER: Google rankings are NEVER guaranteed."
+}

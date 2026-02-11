@@ -1,0 +1,10 @@
+requests
+httpx
+beautifulsoup4
+lxml
+chardet
+nltk
+rich
+json-ld
+pytest
+python-dotenv
