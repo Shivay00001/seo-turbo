@@ -12,3 +12,6 @@ build/
 .vscode/
 *.log
 node_modules/
+
+# Generated reports
+reports/
